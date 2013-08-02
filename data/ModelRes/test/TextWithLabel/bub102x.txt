@@ -1,8 +1,0 @@
-2011-09-01:	z=81:  smile/false 
-2011-09-01:	z=40:  lori/40 loose/40 track/40 carl/40 die/false 
-2011-09-01:	z=27:  
-2011-09-01:	z=50:  wooo/50 coool/50 
-2011-09-01:	z=48:  're/false dont/false nightmares/48 'll/false stuck/false limbo/48 
-2011-09-01:	z=18:  tweet/18 tweet/18 tweet/18 ate/18 bird/false tweet/18 tweet/18 
-2011-09-01:	z=18:  noooo/18 storms/18 angry/false 
-2011-09-01:	z=95:  question/false 
