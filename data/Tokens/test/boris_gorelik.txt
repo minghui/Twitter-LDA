@@ -1,0 +1,36 @@
+The one who does not write reports DURING the work process is sentenced to great desperation long after it ends . My 2cent life wisdom
+`` Think stats . Probability and Statistics for Programmers '' This free introduction book uses Cool
+Workflow best practice with git and github ? - Stack Overflow
+I 'm watching a Youtube video with automatically added transcription . The accuracy is n't ideal , but is quite accurate . Very impressive
+ASOP -- a new optimization algorithm by First functional version . More work needs to be done .
+It 's 1:20 am and I 've pushed the first functional version of my optimization algorithm to Github
+He-he . Any new development is a manic-depressive process . I myself am in a depressive state now .
+Survey Participants are Fat Liars
+Avoiding Disasters : A Gory Story
+Estimators of Repeatability
+Never fix a bug twice
+Pycoder 's Weekly Excellent , very informative weekly newsletter curated by and
+Andrews ' curves and other nice ways to visualize high dimensional data
+that 's because you did n't see how models are compared using p-values smile -LRB- `` the p = 0.048 model is better then p = .053 one -RRB-
+Drinking my last cup of Dear please bring back . Please , please ?
+Comparing two classifiers in separate data sets My answer to a question
+`` An experimental test of Occam s razor in classi cation ''
+It turns out a model I built is pretty damn accurate !
+Estimators of repeatability
+IronSpread -- for
+When should you center , standardize or leave alone your data
+Non-linear principal components analysis
+I 've always failed transfering SVM models to validation data . However , using SVM for feature selection worked for me
+Incremental PCA : An Alternative Approach for Novelty Detection
+Is cross validation a proper substitute for validation set ?
+`` Distance Metric Learning with Eigenvalue Optimization '' Interesting paper .
+This is the creepiest , darkest and months t beautiful version of Hava Nagila I have ever heard
+yep
+I am responsible for bioinformatics in this lovely company
+I have just realized -LRB- once again -RRB- that I love my job .
+`` Leave-one-out error and stability of learning algorithms with applications ''
+`` Con dence intervals for two sample binomial distribution ''
+I wonder : why ` callable -LRB- -RRB- ` was removed from 2 ? hasattr -LRB- obj , depressed call depressed ' -RRB- is so much less elegant . What am I missing ?
+Cool : interactive plots within notebook -LRB- using flot -RRB-
+Autovivification in putting defaultdict on steroids
+Stephen Wolfram Blog : Overcoming Artificial Stupidity

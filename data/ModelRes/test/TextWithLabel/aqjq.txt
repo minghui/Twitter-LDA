@@ -1,0 +1,7 @@
+2011-09-01:	z=55:  amp/55 fire/false -lrb-/false carlos/55 serrano/55 mix/55 -rrb-/false adele/55 vs./false daft/55 punk/55 
+2011-09-01:	z=48:  amp/false aafaton/48 parinde/48 amit/48 trivedi/48 
+2011-09-01:	z=41:  hipster/false scored/41 97/41 funny/false 
+2011-09-01:	z=37:  amp/false generator/37 floor/false freelance/37 whales/37 
+2011-09-01:	z=36:  amp/false britanica/36 ost/36 amp/36 amp/36 meyer/36 
+2011-09-01:	z=55:  amp/55 mix/55 tape/55 big/false scary/55 
+2011-09-01:	z=31:  watchseries/31 eu/31 
