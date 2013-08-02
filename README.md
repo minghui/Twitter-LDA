@@ -36,7 +36,11 @@ Data format:
 
 3. The model results are in the following format:
 	3.1 Folder "TextWithLabel": this folder contains files with labeled results. Each file contains a set of posts correspond to the input file. Each line is post with labeled topic id, e.g: 2011-09-01:	z=156: beijing/156 olympic/156 opens/false. This means the post is with topic 156 (z = 156), it contains three terms, where "beijing" and "olympic" are with topic 156, "opens" is labeled as a background term (a term that is popular in many posts, similar to stop words);
+	
 	3.2 BackgroundWordsDistribution.txt: this file list top ranked background words;
+	
 	3.3 TopicCountsOnUsers.txt: this file contains N * T matrix, N is total number of input files (users), T is total number of topic, each element corresponds to number of times the user mentioned the topic;
+	
 	3.4 TopicsDistributionOnUsers.txt: The format is the same with the above file, but each line is a topic distribution of the user.
 	
+
