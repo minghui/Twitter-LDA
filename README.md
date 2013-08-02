@@ -16,7 +16,7 @@ Twitter-LDA
  * 
  * Note that the package here is not developed by the authors
  * in the paper, nor used in the original papers. It's an implementation
- * based on the paper, where most of the work is done by qiming.diao.2010@smu.sg.
+ * based on the paper, where most of the work is done by qiming.diao.2010@smu.edu.sg.
  * 
  * Feel free to contact the following people if you find any
  * problems in the package.
