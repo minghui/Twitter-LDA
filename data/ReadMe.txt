@@ -1,3 +1,2 @@
-Tokens: data inside this folder are been tokenized
-Data4Model: To apply the model, data in Tokens/ are further processed: remove post id and time stamp.
+Data4Model: To apply the model, data in this folder need to be tokenized. Each file contains all tweets of a user.
 ModelRes: Results of the model
