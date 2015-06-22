@@ -46,4 +46,8 @@ Data format:
 	
 	3.4 TopicsDistributionOnUsers.txt: The format is the same with the above file, but each line is a topic distribution of the user.
 	
+There are two ways to run the code:
+1. You can create a new project using eclipse in the source code folder. Make sure all the jar files in the lib folder are loaded. Then just run this main file: TwitterLDA/TwitterLDAmain.java
+
+2. If u are using ant, just run "ant build". To run the main file, cd to the source code folder, and run: java -cp ./bin TwitterLDA/TwitterLDAmain
 
