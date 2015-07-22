@@ -331,7 +331,7 @@ public class FileUtil {
 
 	/**
 	 * Create a directory by calling mkdir();
-	 * 
+	 *
 	 * @param dirFile
 	 */
 	public static void mkdir(File dirFile) {
@@ -343,8 +343,8 @@ public class FileUtil {
 				System.out.println("The folder exists.");
 			} else {
 				System.out
-						.println("The folder do not exist,now trying to create a one...");
-				bFile = dirFile.mkdir();
+						.println("The folder do not exist, now trying to create a one...");
+				bFile = dirFile.mkdirs();
 				if (bFile == true) {
 					System.out.println("Create successfully!");
 				} else {
@@ -360,7 +360,7 @@ public class FileUtil {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param path
 	 * @return
 	 */
@@ -380,7 +380,7 @@ public class FileUtil {
 
 	/**
 	 * List files in a given directory
-	 * 
+	 *
 	 * */
 	static public String[] listFiles(String inputdir) {
 		File dir = new File(inputdir);
@@ -414,7 +414,7 @@ public class FileUtil {
 
 	/**
 	 * List files in a given directory
-	 * 
+	 *
 	 * */
 	static public String[] listFilteredFiles(String inputdir,
 			final String filterCondition) {
@@ -435,7 +435,7 @@ public class FileUtil {
 
 	/**
 	 * List files recursively in a given directory
-	 * 
+	 *
 	 * */
 	static public void listFilesR() {
 		File dir = new File("directoryName");
