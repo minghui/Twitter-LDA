@@ -18,10 +18,11 @@ Twitter-LDA
  * in the paper, nor used in the original papers. It's an implementation
  * based on the paper, where most of the work is done by qiming.diao.2010@smu.edu.sg.
  *
- * Feel free to contact the following people if you find any
+ * Feel free to contact me if you find any
  * problems in the package.
  *
  * minghui.qiu.2010@smu.edu.sg
+ * minghuiqiu@gmail.com
  *
  */
 
