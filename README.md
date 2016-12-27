@@ -24,7 +24,7 @@ Twitter-LDA
  * minghui.qiu.2010@smu.edu.sg
  * minghuiqiu@gmail.com
  *
- */
+*/
 
 Brief introduction:
 
