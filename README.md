@@ -31,7 +31,7 @@ Brief introduction:
 Latent Dirichlet Allocation (LDA) has been widely used in textual analysis. The original LDA is used to find hidden "topics" in
 the documents, where a topic is a subject like "arts" or "education" that is discussed in the documents. The original setting in LDA, where each word has a topic label, may not work well with Twitter as tweets are short and a single tweet is more likely to talk about one topic. Hence, Twitter-LDA (T-LDA) has been proposed to address this issue. T-LDA also addresses the noisy nature of tweets, where it captures background words in tweets. Experiments have shown that T-LDA could capture more meaningful topics than LDA in Microblogs.
 
-T-LDA has been widely used in many applications including helpfulness prediction [1], user modeling [2], bursty topic detection[3], and keyphrase extraction [4].
+T-LDA has been widely used in many applications including aspect mining [1], user modeling [2], bursty topic detection[3], and keyphrase extraction [4].
 
 [1] Aspect-Based Helpfulness Prediction for Online Product Reviews. Y Yang, C Chen, FS Bao, 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), 2016. (http://ieeexplore.ieee.org/abstract/document/7814690/)
 
