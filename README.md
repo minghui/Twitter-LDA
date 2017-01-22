@@ -29,7 +29,13 @@ Twitter-LDA
 Brief introduction:
 
 Latent Dirichlet Allocation (LDA) has been widely used in textual analysis. The original LDA is used to find hidden "topics" in
-the documents, where a topic is a subject like "arts" or "education" that is discussed in the documents. The original setting in LDA, where each word has a topic label, may not work well with Twitter as tweets are short and a single tweet is more likely to talk about one topic. Hence, Twitter-LDA (T-LDA) has been proposed to address this issue. T-LDA also addresses the noisy nature of tweets, where it captures background words in tweets. As experiments in [7] have shown that T-LDA could capture more meaningful topics than LDA in Microblogs.
+the documents, where a topic is a subject like "arts" or "education" that is discussed in the documents. The original setting in LDA, where each word has a topic label, may not work well with Twitter as tweets are short and a single tweet is more likely to talk about one topic. Hence, Twitter-LDA (T-LDA) has been proposed to address this issue. T-LDA also addresses the noisy nature of tweets, where it captures background words in tweets. Experiments have shown that T-LDA could capture more meaningful topics than LDA in Microblogs.
+
+T-LDA has been widely used in many applications including helpfulness prediction [1], user modeling [2], keyphrase extraction [4], and bursty topic detection[3].
+[1] Aspect-Based Helpfulness Prediction for Online Product ReviewsY Yang, C Chen, FS Bao, 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), 2016
+[2] It's Not What We Say But How We Say Them: LDA-based Behavior-Topic Model. Minghui Qiu, Feida Zhu and Jing Jiang. SDM'13.
+[3] Finding bursty topics from microblogs. Qiming Diao, Jing Jiang, Feida Zhu and Ee-Peng Lim In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics, ACL'12.
+[4] Topical keyphrase extraction from Twitter. [bib] Wayne Xin Zhao, Jing Jiang, Jing He, Yang Song, Palakorn Achanauparp, Ee-Peng Lim and Xiaoming Li In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics, ACL'11.
 
 Data format:
 
