@@ -33,7 +33,7 @@ the documents, where a topic is a subject like "arts" or "education" that is dis
 
 T-LDA has been widely used in many applications including helpfulness prediction [1], user modeling [2], bursty topic detection[3], and keyphrase extraction [4].
 
-[1] Aspect-Based Helpfulness Prediction for Online Product Reviews. Y Yang, C Chen, FS Bao, 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), 2016.
+[1] Aspect-Based Helpfulness Prediction for Online Product Reviews. Y Yang, C Chen, FS Bao, 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), 2016. (http://ieeexplore.ieee.org/abstract/document/7814690/)
 
 [2] It's Not What We Say But How We Say Them: LDA-based Behavior-Topic Model. Minghui Qiu, Feida Zhu and Jing Jiang. SDM'13.
 
