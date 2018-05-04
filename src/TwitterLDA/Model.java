@@ -63,7 +63,7 @@ public class Model {
 
 	// public int[][] CountTopicsTime;
 
-	public Model(int A_all, int t, int u, int v, int niter, float alpha_g,
+	public Model(int A_all, int u, int v, int niter, float alpha_g,
 			float beta, float beta_b, float gamm) {
 
 		this.A = A_all;
